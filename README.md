@@ -9,7 +9,7 @@ Churn quantifies the number of customers who have left a brand by cancelling the
 
 *Compare and choose the best Machine learning model for this case
 
-*Model Evaluation using Receiver Operating Characteristic
+*Model Evaluation using ROC AUC
 
 ## Data Dictionary
 * CustomerID: A unique ID that identifies each customer.
